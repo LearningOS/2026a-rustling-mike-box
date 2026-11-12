@@ -18,7 +18,7 @@
 //
 // Execute `rustlings hint box1` or use the `hint` watch subcommand for a hint.
 
-// I AM NOT DONE
+use std::marker::PhantomPinned;
 
 #[derive(PartialEq, Debug)]
 pub enum List {
